@@ -1,4 +1,4 @@
-"""min_max2モジュールのmin_max2関数を呼び出す"""
+"""example_1モジュールのmin_max2関数を呼び出す"""
 
 import example_1
 x = float(input('x = '))
