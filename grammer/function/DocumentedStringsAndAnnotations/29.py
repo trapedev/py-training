@@ -13,4 +13,5 @@ def puts(n: int, s: str) -> None:
     for _ in range(n):
         print(s, end='')
 
+
 print(puts.__doc__)
